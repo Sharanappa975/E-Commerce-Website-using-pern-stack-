@@ -10,3 +10,7 @@ dist
 client/public/sitemap.xml
 .terraform/
 .terraform.lock.hcl
+node_modules
+.env
+dist
+build
