@@ -16,7 +16,7 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 
 ## Screenshots
 
-![Homepage Screen Shot](https://user-images.githubusercontent.com/51405947/104136952-a3509100-5399-11eb-94a6-0f9b07fbf1a2.png)
+![Homepage Screen Shot]("C:\Users\shivk\OneDrive\All(Projects)\Details mine\WhatsApp Image 2026-04-21 at 15.37.35.jpeg")
 
 ## Database Schema
 
