@@ -16,7 +16,7 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 
 ## Screenshots
 
-![Homepage Screen Shot]("C:\Users\shivk\OneDrive\All(Projects)\Details mine\WhatsApp Image 2026-04-21 at 15.37.35.jpeg")
+![Homepage Screen Shot](./images/homepage.jpeg)
 
 ## Database Schema
 
