@@ -16,7 +16,7 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 
 ## Screenshots
 
-![Homepage Screen Shot](./images/homepage.jpeg)
+![Homepage Screen Shot](.Detailsmine/image.jpeg)
 
 ## Database Schema
 
